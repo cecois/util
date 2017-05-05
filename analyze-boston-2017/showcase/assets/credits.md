@@ -2,6 +2,9 @@
 * [Flying Into Boston 005 - Tilt Shift](https://www.flickr.com/photos/tostie14/117610830/in/photolist-boMAW-dzpeQG-9dx1Dd-7ZkWpL-hsYm2k-AN2QR4-fE9fpF-ouWkdj-qYNPcv-asQUmC-eRYeRy-qPj6ws-ovyqxj-5BKDM3-ougu4f-ckPHnS-dbtwXR-9Nx92J-fZWiL3-hnpxM3-AMko8-8E7kwx-FeeJEZ-5Ajjqg-h1sVxr-8UjEDw-9oqLA4-dwzbCJ-vvMN6T-6EjbPS-6aRMqE-umJeX-9wMGEs-8fEGiE-8cjznp-pWZH1o-f45vD-5YKLJd-5ZGwhr-qV6woB-dFGtML-7fpcPT-bYcpXE-hirysa-8ew1gB-bdBRf-5ZLK35-9bxDgB-cFwRP-dmRwaL)
 
 * [StreetBump](https://www.boston.gov/departments/innovation-and-technology/apps#streetbump)
+* [fake Twitter Belly account avatar](http://www.urbancincy.com/wp-content/uploads/2012/02/IMG_2684.jpg) (edited)
+* [fake Twitter Red Maple account avatar](https://ih1.redbubble.net/image.6873485.4363/flat,1000x1000,075,f.jpg)
+* [fake Twitter smoke detector avatar - Smoke Detector Sounding by d͡ʒɛrmi Good from the Noun Project](https://thenounproject.com/search/?q=smoke%20detector&i=91021)
 
 ##### Logos
 
