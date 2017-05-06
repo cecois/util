@@ -1,100 +1,38 @@
 ##### photos/screencaps
 * [Flying Into Boston 005 - Tilt Shift](https://www.flickr.com/photos/tostie14/117610830/in/photolist-boMAW-dzpeQG-9dx1Dd-7ZkWpL-hsYm2k-AN2QR4-fE9fpF-ouWkdj-qYNPcv-asQUmC-eRYeRy-qPj6ws-ovyqxj-5BKDM3-ougu4f-ckPHnS-dbtwXR-9Nx92J-fZWiL3-hnpxM3-AMko8-8E7kwx-FeeJEZ-5Ajjqg-h1sVxr-8UjEDw-9oqLA4-dwzbCJ-vvMN6T-6EjbPS-6aRMqE-umJeX-9wMGEs-8fEGiE-8cjznp-pWZH1o-f45vD-5YKLJd-5ZGwhr-qV6woB-dFGtML-7fpcPT-bYcpXE-hirysa-8ew1gB-bdBRf-5ZLK35-9bxDgB-cFwRP-dmRwaL)
-
-* [StreetBump](https://www.boston.gov/departments/innovation-and-technology/apps#streetbump)
+* [StreetBump (edited)](http://www.streetbump.org/about)
 * [fake Twitter Belly account avatar](http://www.urbancincy.com/wp-content/uploads/2012/02/IMG_2684.jpg) (edited)
 * [fake Twitter Red Maple account avatar](https://ih1.redbubble.net/image.6873485.4363/flat,1000x1000,075,f.jpg)
 * [fake Twitter smoke detector avatar - Smoke Detector Sounding by d͡ʒɛrmi Good from the Noun Project](https://thenounproject.com/search/?q=smoke%20detector&i=91021)
+* [data.boston dataset screencap](https://data.boston.gov/dataset)
+* [data.boston splash](https://data.boston.gov/)
+* [Garbage Atlas 2014 caps](http://garbage-milleria.rhcloud.com)
 
-##### Logos
+##### logos
 
 * [Twitter Bird](https://en.wikipedia.org/wiki/Twitter#/media/File:Twitter_bird_logo_2012.svg)
 * [Heart by Manos Hatzidakis from the Noun Project](https://thenounproject.com/search/?q=twitter heart&i=409070)
 * [Reblog by Thomas Helbig from the Noun Project](https://thenounproject.com/search/?q=twitter%20arrow&i=120465)
+* [NodeJS](https://en.wikipedia.org/wiki/Node.js)
+* [FOSS4G](https://en.wikipedia.org/wiki/Open_Source_Geospatial_Foundation#/media/File:Open_Source_Geospatial_Foundation_(logo).svg)
+* [MapProxy](https://commons.wikimedia.org/wiki/File:Logo_MapProxy.svg)
+* [BackboneJS](https://en.wikipedia.org/wiki/Backbone.js#/media/File:Backbone.js_logo.svg)
+* [GDAL](https://en.wikipedia.org/w/index.php?search=gdal&title=Special:Search&profile=default&fulltext=1&searchToken=6zzxscshejcredl2qazvacpt1)
+
 
 ##### other
-* http://libgeo/reference/bmm/#home/1/nil/cloudmade/out/nil/-153.63281250000003,-16.130262012034756,85.95703125000001,75.71563324165896/null
-* https://data.boston.gov/dataset?q=big+belly
-* https://www.wikipedia.org/
-* https://icomoon.io/app/#/select
-* https://github.com/georchestra/presentation/blob/master/img/geowebcache-logo.png
-* http://libgeo/reference/bmm/#home/1/nil/cloudmade/out/nil/-153.63281250000003,-11.523087506868514,85.95703125000001,74.4964131169431/null
-* https://en.wikipedia.org/wiki/Node.js
-* https://en.wikipedia.org/wiki/Open_Source_Geospatial_Foundation#/media/File:Open_Source_Geospatial_Foundation_(logo).svg
-* https://icomoon.io/app/
-* https://commons.wikimedia.org/wiki/File:Logo_MapProxy.svg
-* http://libgeo/reference/bmm/#home/1/nil/pencil/out/nil/-153.63281250000003,-11.523087506868514,85.95703125000001,74.4964131169431/null
-* https://en.wikipedia.org/wiki/Backbone.js#/media/File:Backbone.js_logo.svg
-* https://en.wikipedia.org/w/index.php?search=gdal&title=Special:Search&profile=default&fulltext=1&searchToken=6zzxscshejcredl2qazvacpt1
-* http://libgeo/reference/bmm/#home/1/nil/pinterest/out/nil/-153.63281250000003,-11.523087506868514,85.95703125000001,74.4964131169431/null
-* https://en.wikipedia.org/wiki/Angular
-* https://en.wikipedia.org/wiki/CartoDB
-* https://en.wikipedia.org/w/index.php?search=cloudemade&title=Special:Search&go=Go&searchToken=det74snnozk38zk9j8rexbc5q
-* https://icomoon.io/app/#/projects
-* https://en.wikipedia.org/wiki/Reactjs
-* https://www.google.com/search?client=safari&rls=en&q=libgeo/menagerie&ie=UTF-8&oe=UTF-8
-* https://en.wikipedia.org/wiki/GeoServer
-* https://en.wikipedia.org/w/index.php?search=Stamen+Design&title=Special:Search&profile=default&fulltext=1&searchToken=5od9izl03gz7m042irsigj17a
-* https://de.wikipedia.org/wiki/Datei:GeoServer_Logo.svg
-* https://www.google.com/search?client=safari&rls=10_12_4&q=john%20lennon%20watching%20the%20wheels&ie=UTF-8&oe=UTF-8
-* https://data.boston.gov/
-* https://en.wikipedia.org/wiki/QGIS
-* http://geowebcache.org/
-https://data.boston.gov/dataset/fb5a108b-5f3a-4347-a091-6bc2b1753ea5/resource/c8c54c49-3097-40fc-b3f2-c9508b8d393a/download/* big-belly-alerts-2014.csv
-* https://en.wikipedia.org/wiki/Openlayers
-* https://github.com/georchestra/presentation/tree/master/img
-* https://en.wikipedia.org/wiki/File:Node.js_logo.svg
-* https://en.wikipedia.org/wiki/Open_Source_Geospatial_Foundation
-* https://en.wikipedia.org/wiki/GDAL
-* https://en.wikipedia.org/wiki/Leaflet
-* https://en.wikipedia.org/wiki/File:AngularJS_logo.svg
-* https://en.wikipedia.org/wiki/Postgis
-* https://icomoon.io/#profile
-* https://en.wikipedia.org/w/index.php?search=cloudemade&title=Special%3ASearch&go=Go
-* https://en.wikipedia.org/wiki/MapServer
-* https://en.wikipedia.org/wiki/React_(JavaScript_library)
-* https://en.wikipedia.org/wiki/Stamen_Design
-* https://en.wikipedia.org/w/index.php?search=geowebcache&title=Special:Search&go=Go&searchToken=6yx98jh21itfgnzniq2z5gcbh
-* http://libgeo/reference/bmm/#home/1/nil/wikimedia/out/nil/-297.77343750000006,-45.08903556483102,181.40625,86.57422361983717/null
-* http://libgeo/reference/bmm/#home/1/nil/cloudmade/out/nil/-149.94140625000003,13.239945499286312,82.44140625000001,66.23145747862573/null
-* https://en.wikipedia.org/wiki/Qgis
-* http://libgeo/reference/bmm/#home/1/nil/cloudmade/out/nil/-153.63281250000003,-11.523087506868514,85.95703125000001,74.54332982677906/null
-* https://data.boston.gov/dataset/big-belly-alerts-2014
-* http://libgeo/reference/bmm/#home/1/nil/cloudmade/out/nil/-153.45703125000003,-16.130262012034756,85.95703125000001,75.71563324165896/null
-* https://en.wikipedia.org/wiki/Leaflet_(software)
-* https://en.wikipedia.org/wiki/Backbone
-* https://en.wikipedia.org/w/index.php?search=gdal&title=Special%3ASearch&profile=default&fulltext=1
-* http://libgeo/reference/bmm/#home/1/nil/stamen_toner/out/nil/-153.63281250000003,-11.523087506868514,85.95703125000001,74.4964131169431/null
-* https://en.wikipedia.org/wiki/File:PostGIS_logo.png
-* https://en.wikipedia.org/wiki/Backbone.js
-* https://en.wikipedia.org/wiki/Mapbox
-* http://libgeo/reference/bmm/#home/1/nil/stamen_toner/out/nil/-297.77343750000006,-45.08903556483102,181.40625,86.57422361983717/null
-* https://en.wikipedia.org/wiki/File:React-icon.svg
-* https://en.wikipedia.org/wiki/File:Mapbox_Logo.svg
-* https://en.wikipedia.org/wiki/File:Stamen_Logo.svg
-* https://en.wikipedia.org/wiki/MapServer#/media/File:MapServer.png
-* https://en.wikipedia.org/wiki/OpenRefine
-* http://libgeo/reference/bmm/
-* https://en.wikipedia.org/wiki/QGIS#/media/File:QGIS_logo,_2017.svg
-* https://en.wikipedia.org/w/index.php?search=geowebcache&title=Special%3ASearch&go=Go
-* https://data.boston.gov/dataset/big-belly-alerts-2014/resource/c8c54c49-3097-40fc-b3f2-c9508b8d393a
-* https://en.wikipedia.org/wiki/OpenLayers#/media/File:OpenLayers_logo.svg
-* https://www.google.com/search?client=safari&rls=en&q=geowebcache+svg+logo&ie=UTF-8&oe=UTF-8#q=geowebcache+logo+svg
-* https://www.google.com/search?client=safari&rls=en&q=nodejs.org+site:wikipedia.org&ie=UTF-8&oe=UTF-8
-* https://en.wikipedia.org/wiki/OpenLayers
-* https://www.google.com/search?client=safari&rls=10_12_4&q=inkscape%20rounded%20corners&ie=UTF-8&oe=UTF-8
-* https://en.wikipedia.org/wiki/File:Leaflet_logo.svg
-* https://en.wikipedia.org/wiki/File:GDALLogoColor.svg
-* https://en.wikipedia.org/wiki/PostGIS
-* https://thenounproject.com/search/?q=twitter%20arrow&i=120465
-* https://icomoon.io/
-* https://en.wikipedia.org/wiki/AngularJS
-* https://en.wikipedia.org/wiki/Geoserver
-* https://en.wikipedia.org/wiki/File:CARTO-logo.svg
-* https://en.wikipedia.org/w/index.php?search=Stamen+Design&title=Special%3ASearch&profile=default&fulltext=1
-* https://icomoon.io/#hi
-* https://en.wikipedia.org/wiki/File:Google-refine-logo.svg
-* http://libgeo/reference/bmm/#home/1/nil/cloudmade/out/nil/-150.99609375000003,-16.130262012034756,83.49609375000001,75.71563324165896/null
-* http://www.fox25boston.com/top-stories/police-cambridge-driver-intentionally-hit-cyclist-in-bike-lane-after-argument/519761548
-* https://www.google.com/search?client=safari&rls=en&q=geowebcache+svg+logo&ie=UTF-8&oe=UTF-8
-* http://libgeo/reference/bmm/#home/1/nil/mapnik_mono/out/nil/-297.77343750000006,-45.08903556483102,181.40625,86.57422361983717/null
+* [CartoDB](https://en.wikipedia.org/wiki/CartoDB)
+* [Reactjs](https://en.wikipedia.org/wiki/Reactjs)
+* [GeoServer](https://en.wikipedia.org/wiki/GeoServer)
+* [QGIS](https://en.wikipedia.org/wiki/QGIS)
+* [AngularJS](https://en.wikipedia.org/wiki/AngularJS)
+* [Openlayers](https://en.wikipedia.org/wiki/Openlayers)
+* [MapServer](https://en.wikipedia.org/wiki/MapServer)
+* [Postgis](https://en.wikipedia.org/wiki/Postgis)
+* [Leaflet](https://en.wikipedia.org/wiki/Leaflet)
+* [Mapbox](https://en.wikipedia.org/wiki/Mapbox)
+* [OpenRefine](https://en.wikipedia.org/wiki/OpenRefine)
+* [Stamen_Design](https://en.wikipedia.org/wiki/Stamen_Design)
+* [Geoserver](https://en.wikipedia.org/wiki/Geoserver)
+* [Carto](https://en.wikipedia.org/wiki/File:CARTO-logo.svg)
+* [Belly Alerts 2014](https://data.boston.gov/dataset/big-belly-alerts-2014/resource/c8c54c49-3097-40fc-b3f2-c9508b8d393a)
